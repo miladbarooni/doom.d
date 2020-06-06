@@ -1,0 +1,11 @@
+#+html: <a href="http://opensource.org/licenses/GPL-3.0">
+#+html:   <img src="http://img.shields.io/:license-gpl-blue.svg" alt=":license-gpl-blue.svg" />
+#+html: </a>
+
+
+* My personal [[https://github.com/hlissner/doom-emacs][Doom Emacs]] setup
+[[./splash.png]]
+
+It's nothing special, just a few customizations to make vim key-bindings more bearable.
+** License
+Distributed under the GNU General Public License, version 3
