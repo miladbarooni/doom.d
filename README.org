@@ -8,4 +8,4 @@
 
 It's nothing special, just a few customizations to make vim key-bindings more bearable.
 ** License
-Distributed under the GNU General Public License, version 3
+Distributed under the GNU General Public License, version 2
